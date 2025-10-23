@@ -3,9 +3,11 @@
 ## How to Setup
 
 **Frontend:**
+cd frontend  
 npm install, npm start  
 
 **Backend:**
+in 2nd terminal, cd backend  
 python3 server.py  
 
 ## Things to Do
