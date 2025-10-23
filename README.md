@@ -11,7 +11,7 @@ in 2nd terminal, cd backend
 python3 setup.py, activate the venv using source .venv/bin/activate, python3 server.py  
 
 ## Things to Do
-
+- Install SQLite extension in VSCode  
 - Understand how user database works (sign-in/create account implemented)  
 - Create an items database by creating a new items.db file and opening it in SQLite and run the following query:  
 CREATE TABLE items (  
