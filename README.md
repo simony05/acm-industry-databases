@@ -1,12 +1,17 @@
-ACM Industry Training 3: Databases
+# ACM Industry Training 3: Databases
 
-How to setup:
-frontend: npm install, npm start
-backend: python3 server.py
+## How to Setup
 
-Things to do:
-Understand how user database works (sign-in/create account implemented)
-Create a items database
-Understand CRUD operations on items database
-How to view database table and commit queries in VSCode
-Modify CRUD API routes
+**Frontend:**
+npm install, npm start  
+
+**Backend:**
+python3 server.py  
+
+## Things to Do
+
+- Understand how user database works (sign-in/create account implemented)  
+- Create an items database  
+- Understand CRUD operations on items database  
+- Learn how to view database table and commit queries in VSCode  
+- Modify CRUD API routes
