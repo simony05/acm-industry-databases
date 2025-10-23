@@ -8,7 +8,7 @@ npm install, npm start
 
 **Backend:**
 in 2nd terminal, cd backend  
-python3 server.py  
+python3 setup.py, activate the venv using source .venv/bin/activate, python3 server.py  
 
 ## Things to Do
 
